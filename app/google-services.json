@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "00000000000000000",
+    "project_id": "yourId",
+    "storage_bucket": "yourBucket"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "0:00000000000000:android:a0aa0a0000480a0Aa0a000",
+        "android_client_info": {
+          "package_name": "in.ms.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "0000000000000000-aaaaa0a00aaa0aaaaaaaaaaaaaaaaaaa0.apps.googleusercontent.com yourId",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "yourKey"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "yourId",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
